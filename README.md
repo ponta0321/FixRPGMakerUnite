@@ -1,15 +1,19 @@
 # RPG Maker Unite Bug Fix Collection
 
 A collection of bug fixes for those who want to proceed with game development with RPG Maker Unite.
+
 RPG Maker Uniteでゲーム開発を進めたい方のためのバグフィックス集です。
 
 If you find a problem, please write the problem in "Issues" along with the version of RPG Maker Unite.
+
 問題を見つけたらRPG Maker Uniteのバージョンと共に問題点を「Issues」に書き込んでください。
 
 Also, please write the source code that can solve the problem in "Issues".
+
 また、「Issues」にある問題を解決できるソースコードを記入ください。
 
 Please let me know if there are any licensing issues.
+
 ライセンス的に問題がある場合はご指摘ください。
 
 
