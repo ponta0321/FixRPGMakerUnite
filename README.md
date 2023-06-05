@@ -9,6 +9,9 @@ If you find a problem, please write the problem in "Issues" along with the versi
 Also, please write the source code that can solve the problem in "Issues".
 また、「Issues」にある問題を解決できるソースコードを記入ください。
 
+Please let me know if there are any licensing issues.
+ライセンス的に問題がある場合はご指摘ください。
+
 
 ## Note:
 注意：
