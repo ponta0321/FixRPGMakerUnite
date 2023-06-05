@@ -29,5 +29,5 @@ Please let me know if there are any licensing issues.
 注意：
 - Please do not reprint or quote unnecessary parts of the source code.
 - 不要な箇所のソースコードを転載または引用しないでください。
-- This is in the development of RPG Maker Unite. Please refrain from slandering RPG Maker Unite, its publishers and developers.
-- ここはRPG Maker Uniteの発展にあります。RPG Maker Unite、またそのパプリッシャー、開発者に対する誹謗中傷はご遠慮ください。
+- It's here for the development of RPG Maker Unite. Please refrain from slandering RPG Maker Unite, its publishers and developers.
+- ここはRPG Maker Uniteの発展のためにあります。RPG Maker Unite、またそのパプリッシャー、開発者に対する誹謗中傷はご遠慮ください。
