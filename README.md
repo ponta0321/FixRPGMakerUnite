@@ -8,9 +8,9 @@ If you find a problem, please write the problem in "Issues" along with the versi
 
 問題を見つけたらRPG Maker Uniteのバージョンと共に問題点を「Issues」に書き込んでください。
 
-Also, please write the source code that can solve the problem in "Issues".
+If you have source code that can solve "Issues", please write it in the comments and mark it as "Close as completed".
 
-また、「Issues」にある問題を解決できるソースコードを記入ください。
+「Issues」を解決できるソースコードがあれば、コメントに書き込んで、「Close as completed」にしてください。
 
 Please let me know if there are any licensing issues.
 
