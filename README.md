@@ -8,9 +8,17 @@ If you find a problem, please write the problem in "Issues" along with the versi
 
 問題を見つけたらRPG Maker Uniteのバージョンと共に問題点を「Issues」に書き込んでください。
 
-If you have source code that can solve "Issues", please write it in the comments and mark it as "Close as completed".
+When writing in "Issue", label "bug" for things that are clearly considered to be bugs, and label "documentation" for things that may be specifications but should be known during game development. please give me.
 
-「Issues」を解決できるソースコードがあれば、コメントに書き込んで、「Close as completed」にしてください。
+「Issue」に書き込む際、明らかにバグだと思われるものはラベル「bug」を貼り、仕様かもしれないけどゲーム開発の際に周知しておいたほうがよいものにはラベル「documentation」を貼ってください。
+
+If there is a source code that can solve the "Issue", please write it in the comment and attach the label "suggestion" to the "Issue".
+
+「Issue」に対し、解決できるソースコードがあれば、コメントに書き込んで、その「Issue」にラベル「suggestion」を貼ってください。
+
+If "Issue" has been resolved by upgrading RPG Maker Unite, please write in the comments that it was improved by upgrading and mark it as "Close as completed".
+
+RPG Maker Unite のバージョンアップによって「Issue」が解決されていたら、コメントにバージョンアップによる改善と書き、「Close as completed」にしてください。
 
 Please let me know if there are any licensing issues.
 
