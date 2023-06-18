@@ -12,7 +12,7 @@ If you would like to communicate or offer ideas, regardless of the issue, please
 RPG Maker Unite Topics （Official）
 https://support.rpgmakerunite.com/hc/en-us/community/topics
 
----
+--
 
 RPG Maker Uniteでゲーム開発を進めたい方のためのバグフィックス集です。
 問題を見つけたらRPG Maker Uniteのバージョンと共に問題点を「Issues」に書き込んでください。
