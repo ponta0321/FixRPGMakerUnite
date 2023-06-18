@@ -12,6 +12,9 @@ If you would like to communicate or offer ideas, regardless of the issue, please
 RPG Maker Unite Topics （Official）
 https://support.rpgmakerunite.com/hc/en-us/community/topics
 
+Discord （RPGMaker）
+https://discord.com/channels/869489028003692604/
+
 --
 
 RPG Maker Uniteでゲーム開発を進めたい方のためのバグフィックス集です。
@@ -25,6 +28,9 @@ RPG Maker Unite のバージョンアップによって「Issue」が解決さ�
 
 RPG Maker Unite トピック （公式）
 https://support.rpgmakerunite.com/hc/ja/community/topics
+
+Discord （RPGツクール）
+https://discord.com/channels/869489028003692604/
 
 
 ## Note:
