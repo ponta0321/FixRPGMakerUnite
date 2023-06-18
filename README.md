@@ -36,3 +36,13 @@ RPG Maker Unite トピック （公式）
 https://support.rpgmakerunite.com/hc/ja/community/topics  
 Discord （RPGMaker - RPGツクール）  
 https://discord.com/channels/869489028003692604/
+
+## Postscript
+This article is about problems and solutions that I found that I thought would be useful for those who are developing games with RPG Maker Unite.
+However, there are many problems that I could not find and solve on my own, so I referred to the official community, Discord, and Twitter discussions.
+We would like to take this opportunity to thank all those who provided us with information. Thank you very much.
+
+## 後付
+本記事は、RPG Maker Uniteでゲーム開発を進める方に役に立つだろうと思い発見した問題やその解決策を執筆しています。
+しかしながら、自身だけでは問題点の発見、その問題の解決まで及ばないものも多く、公式コミュニティやDiscord、Twitter上で行われている議論などの情報を参考にさせていただきました。
+情報提供いただいた方々へこの場を借りてお礼申し上げます。誠にありがとうございます。
