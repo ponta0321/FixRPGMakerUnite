@@ -10,7 +10,7 @@ Please let me know if there are any licensing issues.
 If you would like to communicate or offer ideas, regardless of the issue, please feel free to post in the "Discussions" section.
 
 RPG Maker Unite Topics （Official）  
-https://support.rpgmakerunite.com/hc/en-us/community/topics
+https://support.rpgmakerunite.com/hc/en-us/community/topics  
 Discord （RPGMaker）  
 https://discord.com/channels/869489028003692604/
 
@@ -26,7 +26,7 @@ RPG Maker Unite のバージョンアップによって「Issue」が解決さ�
 問題点にかかわらずコミュニケーションをとりたい、またはアイデアを提供したい、などあれば、気軽に「Discussions」に書き込みを行ってください。
 
 RPG Maker Unite トピック （公式）  
-https://support.rpgmakerunite.com/hc/ja/community/topics
+https://support.rpgmakerunite.com/hc/ja/community/topics  
 Discord （RPGツクール）  
 https://discord.com/channels/869489028003692604/
 
