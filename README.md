@@ -12,6 +12,7 @@ If you would like to communicate or offer ideas, regardless of the issue, please
 RPG Maker Unite Topics （Official）
 https://support.rpgmakerunite.com/hc/en-us/community/topics
 
+---
 
 RPG Maker Uniteでゲーム開発を進めたい方のためのバグフィックス集です。
 問題を見つけたらRPG Maker Uniteのバージョンと共に問題点を「Issues」に書き込んでください。
@@ -30,6 +31,6 @@ https://support.rpgmakerunite.com/hc/ja/community/topics
 - Please do not reprint or quote unnecessary parts of the source code.
 - It's here for the development of RPG Maker Unite. Please refrain from slandering RPG Maker Unite, its publishers and developers.
 
-##注意：
+## 注意：
 - 不要な箇所のソースコードを転載または引用しないでください。
 - ここはRPG Maker Uniteの発展のためにあります。RPG Maker Unite、またそのパプリッシャー、開発者に対する誹謗中傷はご遠慮ください。
